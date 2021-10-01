@@ -7,3 +7,4 @@ React, Redux, Next JS. Material UI
 
 This App is a full stack chatting application replicating whatsapp web.
 Its a great app which comes handy in this pandemic time.
+ga
